@@ -1,0 +1,51 @@
+{
+  "basics": {
+    "name": "pragatheeswaran",
+    "label": "Programmer",
+    "image": "",
+    "email": "jegatheesthi@gmailcom",
+    "phone": "6382194951",
+ 
+    "summary": "pragatheeswaran",
+    "location": {
+      "address": "102/2",
+      "postalCode": "622302",
+      "city": "pudukottai",
+     "state":"tamilnadu",
+      "region": "indian"
+    },
+    "profiles": [{
+      "git":"Jeyjega
+      "url": "https://github.com/Jeyjega"
+    }]
+  },
+"bio":{
+"status":"fresher"
+"degree":"B.Tech-IT";
+"college":"hindusthan institute of technology",
+"location":"coimbatore"
+
+  }],
+  "skills": [{
+    "name": "Web Development",
+    "level": "Master",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  }],
+  "languages": [{
+    "language": "English","tamil",
+    "fluency": "Native speaker"
+  }],
+  "interests": [{
+    "name": "music","coding"
+"planting"
+        
+  }],
+    ],
+    "keywords": [
+      "HTML"
+  }]
+}
